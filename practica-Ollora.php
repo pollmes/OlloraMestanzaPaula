@@ -1,7 +1,8 @@
 <?php
 /**
  *  Clase para el Archivo del ejercicio 1.2
- *
+ *  Añadimos una línea de comentario para hacer el cambio que pide 
+ *  en el ejercicio 2.3
  * @author Paula Ollora Mestanza
  * @version 1.0.0
  * @internal Nota para desarrolladores.
